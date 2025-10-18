@@ -2,7 +2,8 @@
 **Author:** Andrés Nó Gómez
 ## Overview
 
-This project presents a comprehensive analysis of urban mobility patterns in Madrid during 2022, integrating data from multiple sources to understand the relationships between bicycle usage, vehicular traffic, meteorological conditions, and calendar factors. The study combines exploratory data analysis (EDA), data integration, correlation analysis, and interactive dashboard development using Power BI.
+This project presents a comprehensive analysis of urban mobility patterns in Madrid during 2022, integrating data from 4 independent sources to understand the relationships between bicycle usage, vehicular traffic, meteorological conditions, and calendar factors. The study combines exploratory data analysis (EDA), data integration, correlation analysis, and interactive dashboard development using Power BI.
+
 
 The analysis encompasses over 4 million bicycle trips from BiciMad (Madrid's bike-sharing system), 719.5 million vehicle traffic records, daily meteorological data, and a complete labor calendar for Madrid. Through systematic data cleaning, transformation, and integration, this project reveals key insights about sustainable urban transportation patterns and their dependencies on external factors.
 
@@ -117,3 +118,4 @@ meteostat
 - **Data Integration**: Power Query
 - **Statistical Analysis**: Pearson correlation, descriptive statistics
 - **Data Sources**: Meteostat API, Madrid Open Data Portal
+
