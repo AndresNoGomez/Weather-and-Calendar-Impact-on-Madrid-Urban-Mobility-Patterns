@@ -66,7 +66,6 @@ Each dataset is organized in its own folder containing EDA notebook, raw data, a
 
 ![Heatmaps Analysis](Imagenes/Heatmaps.jpg)
 
-![Relational Data Model](Imagenes/RelationalDataModel.jpg)
 
 ## Technical Implementation
 
@@ -84,7 +83,8 @@ The project implements a star schema data model in Power BI with dual granularit
 - Comprehensive metrics covering volume, proportion, trend, and data quality indicators
 - Integration of multiple data sources maintaining temporal coherence through inner joins
 
-[Placeholder for Power BI relational data schema screenshot]
+![Relational Data Model](Imagenes/RelationalDataModel.jpg)
+
 
 ## Data Sources
 
@@ -125,5 +125,6 @@ meteostat
 3. Open notebooks in Jupyter or VS Code to explore individual analyses
 4. Review `AnalisisConjunto.ipynb` for the complete integrated analysis
 5. Access Power BI file for interactive dashboards (if available)
+
 
 This analysis demonstrates the value of integrative analytical approaches for understanding complex urban systems, providing evidence-based insights essential for effective and equitable mobility policy design.
