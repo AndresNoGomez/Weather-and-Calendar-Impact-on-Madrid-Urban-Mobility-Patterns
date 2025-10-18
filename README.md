@@ -30,7 +30,8 @@ The project follows a structured approach consisting of three main phases:
 Each dataset is organized in its own folder containing EDA notebook, raw data, and processed data for reproducibility:
 
 - `BiciMadrid/`: Bicycle sharing data analysis
-  - `BiciMadrid2022_EDA.ipynb`: EDA notebook
+  - `BiciMadrid2022_EDA.ipynb`: EDA notebook.
+    
     **IMPORTANT:** Due to the large size of this dataset, the files for BiciMadrid data could not be uploaded to the repository. They are available in the following DropBox links.
   - `2022_bicimad_RawData/`: Raw monthly CSV files with trip records. Available in https://www.dropbox.com/scl/fo/mms0mp64ifwtsomvjgfch/AOufhiwfJHFHIgJ_DS-SYEU?rlkey=0271wmz62du571jmjo0blm5se&st=ywsfu5v9&dl=0
   - `2022_bicimad_CleanData/`: Processed and cleaned bicycle data. Available in https://www.dropbox.com/scl/fo/12dtjc8ia21e9r0g3mh2f/APiP-GEKrLMU38AYceglS8M?rlkey=cditggzdfar190ikpzahihuyf&st=5ernjm58&dl=0
@@ -119,5 +120,6 @@ meteostat
 - **Data Integration**: Power Query
 - **Statistical Analysis**: Pearson correlation, descriptive statistics
 - **Data Sources**: Meteostat API, Madrid Open Data Portal
+
 
 
