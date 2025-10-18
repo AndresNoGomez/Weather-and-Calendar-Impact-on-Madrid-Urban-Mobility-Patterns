@@ -1,5 +1,5 @@
 # Madrid Urban Mobility Analysis 2022: Weather and Calendar Impact on Transportation Patterns
-
+**Author:** Andrés Nó Gómez
 ## Overview
 
 This project presents a comprehensive analysis of urban mobility patterns in Madrid during 2022, integrating data from multiple sources to understand the relationships between bicycle usage, vehicular traffic, meteorological conditions, and calendar factors. The study combines exploratory data analysis (EDA), data integration, correlation analysis, and interactive dashboard development using Power BI.
@@ -117,14 +117,3 @@ meteostat
 - **Data Integration**: Power Query
 - **Statistical Analysis**: Pearson correlation, descriptive statistics
 - **Data Sources**: Meteostat API, Madrid Open Data Portal
-
-## Getting Started
-
-1. Clone the repository
-2. Install required Python packages: `pip install pandas numpy matplotlib seaborn meteostat`
-3. Open notebooks in Jupyter or VS Code to explore individual analyses
-4. Review `AnalisisConjunto.ipynb` for the complete integrated analysis
-5. Access Power BI file for interactive dashboards (if available)
-
-
-This analysis demonstrates the value of integrative analytical approaches for understanding complex urban systems, providing evidence-based insights essential for effective and equitable mobility policy design.
